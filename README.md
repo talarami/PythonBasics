@@ -1,4 +1,4 @@
 # PythonBasics
 
 ## Description
-This is a repo for basic python projects done by Talarami
+This is a repo for basic Python projects done by talarami.
